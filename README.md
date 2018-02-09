@@ -1,19 +1,19 @@
-Demandas feitas - 
-
-Ler imagem usando OCR;
+**Demandas feitas -**<br>
+	Ler imagem usando OCR;<br>
 	Indentifiar o nome do arquivo na imagem;
 	Identificar o path do arquivo no PC;
 	Acessar e carregar o arquivo para memória;
+<hr>
 
+**Demandas a concluir -** <br>
+	Abrir thread para receber e enviar;<br>
+	Enviar arquivo via socket;<br>
+	Receber arquivo via socket;<br>
+<hr>
 
-Demandas a concluir -
-	Abrir thread para receber e enviar;
-	Enviar arquivo via socket;
-	Receber arquivo via socket;
-
-Demandas a pensar -
-	"Parar" dispositivo com pc para troca de informações;	
-	Abrir socket em dispositivo android;
-	Enviar / Receber arquivo via socket;
+**Demandas a pensar -**<br>
+	"Parear" dispositivo com pc para troca de informações;	<br>
+	Abrir socket em dispositivo android;<br>
+	Enviar / Receber arquivo via socket;<br>
 	
 	
